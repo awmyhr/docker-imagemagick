@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd imagemagick && docker build -t awmyhr/imagemagick .
+
